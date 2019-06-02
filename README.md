@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## unicorn rentals
 
 running server
@@ -31,3 +32,6 @@ fetch('http://localhost:3000/unicorns/renturns', {
     'Content-Type': 'application/json'
   }
 })
+=======
+# unicorn-rentals
+>>>>>>> da76f169ec48bf37e853f27c19266fdb12e594c7
